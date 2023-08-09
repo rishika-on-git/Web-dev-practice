@@ -1,5 +1,5 @@
 // how to clone an array 
-// how to convcatenate two arrays
+// how to concatenate two arrays
 
 // let arr1 = ["item1" , "item2"];
 // let arr2 = arr1;
